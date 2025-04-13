@@ -64,5 +64,5 @@
 - git branch -d new_feature --force
 ## Merging:
 - Merging changes from a another branch(new_branch) to the current branch(main) in local (command to be executed from the local branch to which we have to merge the changes): **git merge new_branch**
-- To list the branches which is not merged to current branch(main) in local: **git branch --no-merge**
-- To list the branches which is merged to current branch(main) in local: **git branch --merge**
+- To list the branches which is not merged to current branch(main) in local: **git branch --no-merged**
+- To list the branches which is merged to current branch(main) in local: **git branch --merged**
