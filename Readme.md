@@ -40,3 +40,8 @@
 - git log --stat
 - git log --graph
 - git log --graph --all --oneline --decorate
+## Branch:
+- git branch
+- git branch new_feature
+- git switch new_feature
+- git checkout new_feature
