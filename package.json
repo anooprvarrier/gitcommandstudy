@@ -1,0 +1,15 @@
+{
+  "name": "gitcommandstudy",
+  "version": "1.0.0",
+  "description": "Complete guide to GIT commands and its concepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "GIT"
+  ],
+  "author": "anooprvarrier@zoho.com",
+  "license": "ISC"
+}
