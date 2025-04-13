@@ -1,0 +1,4 @@
+# Adding package-lock.json to the list. As we don't want this to be commited and pushed
+/package-lock.json
+# Adding /node_modules/ to the list. As we don't want this to be commited and pushed
+/node_modules/

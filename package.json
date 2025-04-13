@@ -5,11 +5,14 @@
   "main": "index.js",
   "scripts": {
     "test": "npm run test",
-    "start": "node index.js"
+    "start": "nodemon ./index.js localhost 8080"
   },
   "keywords": [
     "GIT"
   ],
   "author": "anooprvarrier@zoho.com",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
 }
