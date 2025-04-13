@@ -8,18 +8,18 @@
 - To see the changes made in the last commit without using a hash, you can use the git show HEAD command:
 **git show HEAD**
 ## Ancestor : 
-- To see the changes made in short and in one line for the first prior commit: **git show -s --online b874a5f^**
-- To see the changes made in short and in one line for the second prior commit: **git show -s --online b874a5f^^**
-- To see the changes made in short and in one line for the third prior commit: **- git show -s --online b874a5f^^^**
-- To see the changes made in short and in one line for the first prior commit: **- git show -s --online b874a5f~1**
-- To see the changes made in short and in one line for the second prior commit: **- git show -s --online b874a5f~2**
-- To see the changes made in short and in one line for the third prior commit: **- git show -s --online b874a5f~3**
-- To see the changes made in short and in one line for the first prior commit: **git show -s --online b874a5f^**
-- To see the changes made in short and in one line for the second prior commit: **git show -s --online b874a5f^^**
-- To see the changes made in short and in one line for the third prior commit: **- git show -s --online b874a5f^^^**
-- To see the changes made in short and in one line for the first prior commit: **- git show -s --online b874a5f~1**
-- To see the changes made in short and in one line for the second prior commit: **- git show -s --online b874a5f~2**
-- To see the changes made in short and in one line for the third prior commit: **- git show -s --online b874a5f~3**
+- To see the changes made in short and in one line for the first prior commit: **git show -s --oneline b874a5f^**
+- To see the changes made in short and in one line for the second prior commit: **git show -s --oneline b874a5f^^**
+- To see the changes made in short and in one line for the third prior commit: **- git show -s --oneline b874a5f^^^**
+- To see the changes made in short and in one line for the first prior commit: **- git show -s --oneline b874a5f~1**
+- To see the changes made in short and in one line for the second prior commit: **- git show -s --oneline b874a5f~2**
+- To see the changes made in short and in one line for the third prior commit: **- git show -s --oneline b874a5f~3**
+- To see the changes made in short and in one line for the first prior commit: **git show -s --oneline b874a5f^**
+- To see the changes made in short and in one line for the second prior commit: **git show -s --oneline b874a5f^^**
+- To see the changes made in short and in one line for the third prior commit: **- git show -s --oneline b874a5f^^^**
+- To see the changes made in short and in one line for the first prior commit: **- git show -s --oneline b874a5f~1**
+- To see the changes made in short and in one line for the second prior commit: **- git show -s --oneline b874a5f~2**
+- To see the changes made in short and in one line for the third prior commit: **- git show -s --oneline b874a5f~3**
 ## Filter: 
 - git log index.js
 - git log assets/
