@@ -63,4 +63,4 @@
 - git branch -D new_feature
 - git branch -d new_feature --force
 ## Merging:
-- Merging changes from a another branch to the current branch in local (command to be executed from the local branch to which we have to merge the changes): **git merge another_branch**
+- Merging changes from a another branch(new_branch) to the current branch(main) in local (command to be executed from the local branch to which we have to merge the changes): **git merge new_branch**
